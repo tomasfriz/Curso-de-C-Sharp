@@ -1,0 +1,16 @@
+C:\Users\Tomi\Desktop\Friz.Tomas\OperadoresArimeticos\bin\Debug\net5.0\OperadoresArimeticos.exe
+C:\Users\Tomi\Desktop\Friz.Tomas\OperadoresArimeticos\bin\Debug\net5.0\OperadoresArimeticos.deps.json
+C:\Users\Tomi\Desktop\Friz.Tomas\OperadoresArimeticos\bin\Debug\net5.0\OperadoresArimeticos.runtimeconfig.json
+C:\Users\Tomi\Desktop\Friz.Tomas\OperadoresArimeticos\bin\Debug\net5.0\OperadoresArimeticos.runtimeconfig.dev.json
+C:\Users\Tomi\Desktop\Friz.Tomas\OperadoresArimeticos\bin\Debug\net5.0\OperadoresArimeticos.dll
+C:\Users\Tomi\Desktop\Friz.Tomas\OperadoresArimeticos\bin\Debug\net5.0\ref\OperadoresArimeticos.dll
+C:\Users\Tomi\Desktop\Friz.Tomas\OperadoresArimeticos\bin\Debug\net5.0\OperadoresArimeticos.pdb
+C:\Users\Tomi\Desktop\Friz.Tomas\OperadoresArimeticos\obj\Debug\net5.0\OperadoresArimeticos.csproj.AssemblyReference.cache
+C:\Users\Tomi\Desktop\Friz.Tomas\OperadoresArimeticos\obj\Debug\net5.0\OperadoresArimeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomi\Desktop\Friz.Tomas\OperadoresArimeticos\obj\Debug\net5.0\OperadoresArimeticos.AssemblyInfoInputs.cache
+C:\Users\Tomi\Desktop\Friz.Tomas\OperadoresArimeticos\obj\Debug\net5.0\OperadoresArimeticos.AssemblyInfo.cs
+C:\Users\Tomi\Desktop\Friz.Tomas\OperadoresArimeticos\obj\Debug\net5.0\OperadoresArimeticos.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\Friz.Tomas\OperadoresArimeticos\obj\Debug\net5.0\OperadoresArimeticos.dll
+C:\Users\Tomi\Desktop\Friz.Tomas\OperadoresArimeticos\obj\Debug\net5.0\ref\OperadoresArimeticos.dll
+C:\Users\Tomi\Desktop\Friz.Tomas\OperadoresArimeticos\obj\Debug\net5.0\OperadoresArimeticos.pdb
+C:\Users\Tomi\Desktop\Friz.Tomas\OperadoresArimeticos\obj\Debug\net5.0\OperadoresArimeticos.genruntimeconfig.cache

@@ -23,6 +23,8 @@ namespace tipos_datos
             Console.WriteLine("La variable estado contiene el estado: " + estado);
             Console.WriteLine("La variable letra contiene la letra: " + letra);
             Console.WriteLine("La variable palabra contiene la frase: " + palabra);
+
+            Console.ReadKey();
         }
     }
 }

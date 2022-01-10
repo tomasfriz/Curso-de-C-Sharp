@@ -1,0 +1,12 @@
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Evento\bin\Debug\net5.0\Evento.deps.json
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Evento\bin\Debug\net5.0\Evento.dll
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Evento\bin\Debug\net5.0\ref\Evento.dll
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Evento\bin\Debug\net5.0\Evento.pdb
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Evento\obj\Debug\net5.0\Evento.csproj.AssemblyReference.cache
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Evento\obj\Debug\net5.0\Evento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Evento\obj\Debug\net5.0\Evento.AssemblyInfoInputs.cache
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Evento\obj\Debug\net5.0\Evento.AssemblyInfo.cs
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Evento\obj\Debug\net5.0\Evento.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Evento\obj\Debug\net5.0\Evento.dll
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Evento\obj\Debug\net5.0\ref\Evento.dll
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Evento\obj\Debug\net5.0\Evento.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Expresiones Lambda/1.0.0": {
+        "runtime": {
+          "Expresiones Lambda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Expresiones Lambda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Expresiones Lambda\bin\Debug\net5.0\Expresiones Lambda.deps.json
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Expresiones Lambda\bin\Debug\net5.0\Expresiones Lambda.dll
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Expresiones Lambda\bin\Debug\net5.0\ref\Expresiones Lambda.dll
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Expresiones Lambda\bin\Debug\net5.0\Expresiones Lambda.pdb
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Expresiones Lambda\obj\Debug\net5.0\Expresiones Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Expresiones Lambda\obj\Debug\net5.0\Expresiones Lambda.AssemblyInfoInputs.cache
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Expresiones Lambda\obj\Debug\net5.0\Expresiones Lambda.AssemblyInfo.cs
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Expresiones Lambda\obj\Debug\net5.0\Expresiones Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Expresiones Lambda\obj\Debug\net5.0\Expresiones Lambda.dll
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Expresiones Lambda\obj\Debug\net5.0\ref\Expresiones Lambda.dll
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Expresiones Lambda\obj\Debug\net5.0\Expresiones Lambda.pdb

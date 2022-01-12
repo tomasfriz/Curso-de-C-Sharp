@@ -1,0 +1,12 @@
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Covariance\bin\Debug\net5.0\Covariance.deps.json
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Covariance\bin\Debug\net5.0\Covariance.dll
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Covariance\bin\Debug\net5.0\ref\Covariance.dll
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Covariance\bin\Debug\net5.0\Covariance.pdb
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Covariance\obj\Debug\net5.0\Covariance.csproj.AssemblyReference.cache
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Covariance\obj\Debug\net5.0\Covariance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Covariance\obj\Debug\net5.0\Covariance.AssemblyInfoInputs.cache
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Covariance\obj\Debug\net5.0\Covariance.AssemblyInfo.cs
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Covariance\obj\Debug\net5.0\Covariance.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Covariance\obj\Debug\net5.0\Covariance.dll
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Covariance\obj\Debug\net5.0\ref\Covariance.dll
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Covariance\obj\Debug\net5.0\Covariance.pdb

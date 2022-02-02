@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Variables y operadores\bin\Debug\net5.0\Variables y operadores.exe
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Variables y operadores\bin\Debug\net5.0\Variables y operadores.deps.json
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Variables y operadores\bin\Debug\net5.0\Variables y operadores.runtimeconfig.json
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Variables y operadores\bin\Debug\net5.0\Variables y operadores.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Variables y operadores\bin\Debug\net5.0\Variables y operadores.dll
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Variables y operadores\bin\Debug\net5.0\ref\Variables y operadores.dll
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Variables y operadores\bin\Debug\net5.0\Variables y operadores.pdb
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Variables y operadores\obj\Debug\net5.0\Variables y operadores.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Variables y operadores\obj\Debug\net5.0\Variables y operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Variables y operadores\obj\Debug\net5.0\Variables y operadores.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Variables y operadores\obj\Debug\net5.0\Variables y operadores.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Variables y operadores\obj\Debug\net5.0\Variables y operadores.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Variables y operadores\obj\Debug\net5.0\Variables y operadores.dll
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Variables y operadores\obj\Debug\net5.0\ref\Variables y operadores.dll
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Variables y operadores\obj\Debug\net5.0\Variables y operadores.pdb
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Variables y operadores\obj\Debug\net5.0\Variables y operadores.genruntimeconfig.cache

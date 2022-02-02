@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Introduccion a la programacion\bin\Debug\net5.0\Introduccion a la programacion.exe
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Introduccion a la programacion\bin\Debug\net5.0\Introduccion a la programacion.deps.json
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Introduccion a la programacion\bin\Debug\net5.0\Introduccion a la programacion.runtimeconfig.json
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Introduccion a la programacion\bin\Debug\net5.0\Introduccion a la programacion.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Introduccion a la programacion\bin\Debug\net5.0\Introduccion a la programacion.dll
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Introduccion a la programacion\bin\Debug\net5.0\ref\Introduccion a la programacion.dll
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Introduccion a la programacion\bin\Debug\net5.0\Introduccion a la programacion.pdb
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Introduccion a la programacion\obj\Debug\net5.0\Introduccion a la programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Introduccion a la programacion\obj\Debug\net5.0\Introduccion a la programacion.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Introduccion a la programacion\obj\Debug\net5.0\Introduccion a la programacion.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Introduccion a la programacion\obj\Debug\net5.0\Introduccion a la programacion.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Introduccion a la programacion\obj\Debug\net5.0\Introduccion a la programacion.dll
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Introduccion a la programacion\obj\Debug\net5.0\ref\Introduccion a la programacion.dll
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Introduccion a la programacion\obj\Debug\net5.0\Introduccion a la programacion.pdb
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Introduccion a la programacion\obj\Debug\net5.0\Introduccion a la programacion.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Introduccion a la programacion\obj\Debug\net5.0\Introduccion a la programacion.csproj.AssemblyReference.cache

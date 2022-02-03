@@ -1,0 +1,16 @@
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Entrada salida por teclado y pantalla\bin\Debug\net5.0\Entrada salida por teclado y pantalla.exe
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Entrada salida por teclado y pantalla\bin\Debug\net5.0\Entrada salida por teclado y pantalla.deps.json
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Entrada salida por teclado y pantalla\bin\Debug\net5.0\Entrada salida por teclado y pantalla.runtimeconfig.json
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Entrada salida por teclado y pantalla\bin\Debug\net5.0\Entrada salida por teclado y pantalla.runtimeconfig.dev.json
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Entrada salida por teclado y pantalla\bin\Debug\net5.0\Entrada salida por teclado y pantalla.dll
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Entrada salida por teclado y pantalla\bin\Debug\net5.0\ref\Entrada salida por teclado y pantalla.dll
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Entrada salida por teclado y pantalla\bin\Debug\net5.0\Entrada salida por teclado y pantalla.pdb
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Entrada salida por teclado y pantalla\obj\Debug\net5.0\Entrada salida por teclado y pantalla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Entrada salida por teclado y pantalla\obj\Debug\net5.0\Entrada salida por teclado y pantalla.AssemblyInfoInputs.cache
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Entrada salida por teclado y pantalla\obj\Debug\net5.0\Entrada salida por teclado y pantalla.AssemblyInfo.cs
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Entrada salida por teclado y pantalla\obj\Debug\net5.0\Entrada salida por teclado y pantalla.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Entrada salida por teclado y pantalla\obj\Debug\net5.0\Entrada salida por teclado y pantalla.dll
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Entrada salida por teclado y pantalla\obj\Debug\net5.0\ref\Entrada salida por teclado y pantalla.dll
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Entrada salida por teclado y pantalla\obj\Debug\net5.0\Entrada salida por teclado y pantalla.pdb
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Entrada salida por teclado y pantalla\obj\Debug\net5.0\Entrada salida por teclado y pantalla.genruntimeconfig.cache
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Entrada salida por teclado y pantalla\obj\Debug\net5.0\Entrada salida por teclado y pantalla.csproj.AssemblyReference.cache

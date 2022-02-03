@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Entrada salida por teclado y pantalla/1.0.0": {
+        "runtime": {
+          "Entrada salida por teclado y pantalla.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entrada salida por teclado y pantalla/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

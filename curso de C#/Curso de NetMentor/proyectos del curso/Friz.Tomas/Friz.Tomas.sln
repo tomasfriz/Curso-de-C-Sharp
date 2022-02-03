@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjemploBenchmark", "Ejemplo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introduccion a la programacion", "Introduccion a la programacion\Introduccion a la programacion.csproj", "{FF63676C-DE17-4039-918D-162A2B890D83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables y operadores", "Variables y operadores\Variables y operadores.csproj", "{7D4F715B-7B5E-41B7-B3E3-EE66F9DBF0FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables y operadores", "Variables y operadores\Variables y operadores.csproj", "{7D4F715B-7B5E-41B7-B3E3-EE66F9DBF0FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entrada salida por teclado y pantalla", "Entrada salida por teclado y pantalla\Entrada salida por teclado y pantalla.csproj", "{BA978CED-D773-4DE8-B094-862C6A345F9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{7D4F715B-7B5E-41B7-B3E3-EE66F9DBF0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D4F715B-7B5E-41B7-B3E3-EE66F9DBF0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D4F715B-7B5E-41B7-B3E3-EE66F9DBF0FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA978CED-D773-4DE8-B094-862C6A345F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA978CED-D773-4DE8-B094-862C6A345F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA978CED-D773-4DE8-B094-862C6A345F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA978CED-D773-4DE8-B094-862C6A345F9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

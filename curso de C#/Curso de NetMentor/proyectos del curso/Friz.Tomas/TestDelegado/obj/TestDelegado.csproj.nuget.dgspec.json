@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\TestDelegado\\TestDelegado.csproj": {}
+    "C:\\Users\\Tomi\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\TestDelegado\\TestDelegado.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\Delegados\\Delegados.csproj": {
+    "C:\\Users\\Tomi\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\Delegados\\Delegados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\Delegados\\Delegados.csproj",
+        "projectUniqueName": "C:\\Users\\Tomi\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\Delegados\\Delegados.csproj",
         "projectName": "Delegados",
-        "projectPath": "C:\\Users\\Administrador\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\Delegados\\Delegados.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\Delegados\\obj\\",
+        "projectPath": "C:\\Users\\Tomi\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\Delegados\\Delegados.csproj",
+        "packagesPath": "C:\\Users\\Tomi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tomi\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\Delegados\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tomi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,17 +62,21 @@
         }
       }
     },
-    "C:\\Users\\Administrador\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\TestDelegado\\TestDelegado.csproj": {
+    "C:\\Users\\Tomi\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\TestDelegado\\TestDelegado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\TestDelegado\\TestDelegado.csproj",
+        "projectUniqueName": "C:\\Users\\Tomi\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\TestDelegado\\TestDelegado.csproj",
         "projectName": "TestDelegado",
-        "projectPath": "C:\\Users\\Administrador\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\TestDelegado\\TestDelegado.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\TestDelegado\\obj\\",
+        "projectPath": "C:\\Users\\Tomi\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\TestDelegado\\TestDelegado.csproj",
+        "packagesPath": "C:\\Users\\Tomi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tomi\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\TestDelegado\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tomi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +90,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Administrador\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\Delegados\\Delegados.csproj": {
-                "projectPath": "C:\\Users\\Administrador\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\Delegados\\Delegados.csproj"
+              "C:\\Users\\Tomi\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\Delegados\\Delegados.csproj": {
+                "projectPath": "C:\\Users\\Tomi\\Desktop\\curso de C#\\Curso de NetMentor\\proyectos del curso\\Friz.Tomas\\Delegados\\Delegados.csproj"
               }
             }
           }

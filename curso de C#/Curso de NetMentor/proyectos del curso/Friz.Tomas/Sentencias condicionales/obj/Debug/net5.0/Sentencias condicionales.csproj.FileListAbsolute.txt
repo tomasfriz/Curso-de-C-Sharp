@@ -1,0 +1,16 @@
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Sentencias condicionales\bin\Debug\net5.0\Sentencias condicionales.exe
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Sentencias condicionales\bin\Debug\net5.0\Sentencias condicionales.deps.json
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Sentencias condicionales\bin\Debug\net5.0\Sentencias condicionales.runtimeconfig.json
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Sentencias condicionales\bin\Debug\net5.0\Sentencias condicionales.runtimeconfig.dev.json
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Sentencias condicionales\bin\Debug\net5.0\Sentencias condicionales.dll
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Sentencias condicionales\bin\Debug\net5.0\ref\Sentencias condicionales.dll
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Sentencias condicionales\bin\Debug\net5.0\Sentencias condicionales.pdb
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Sentencias condicionales\obj\Debug\net5.0\Sentencias condicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Sentencias condicionales\obj\Debug\net5.0\Sentencias condicionales.AssemblyInfoInputs.cache
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Sentencias condicionales\obj\Debug\net5.0\Sentencias condicionales.AssemblyInfo.cs
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Sentencias condicionales\obj\Debug\net5.0\Sentencias condicionales.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Sentencias condicionales\obj\Debug\net5.0\Sentencias condicionales.dll
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Sentencias condicionales\obj\Debug\net5.0\ref\Sentencias condicionales.dll
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Sentencias condicionales\obj\Debug\net5.0\Sentencias condicionales.pdb
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Sentencias condicionales\obj\Debug\net5.0\Sentencias condicionales.genruntimeconfig.cache
+C:\Users\Tomi\Desktop\curso de C#\Curso de NetMentor\proyectos del curso\Friz.Tomas\Sentencias condicionales\obj\Debug\net5.0\Sentencias condicionales.csproj.AssemblyReference.cache

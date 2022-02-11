@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introduccion a la programac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables y operadores", "Variables y operadores\Variables y operadores.csproj", "{7D4F715B-7B5E-41B7-B3E3-EE66F9DBF0FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entrada salida por teclado y pantalla", "Entrada salida por teclado y pantalla\Entrada salida por teclado y pantalla.csproj", "{BA978CED-D773-4DE8-B094-862C6A345F9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entrada salida por teclado y pantalla", "Entrada salida por teclado y pantalla\Entrada salida por teclado y pantalla.csproj", "{BA978CED-D773-4DE8-B094-862C6A345F9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sentencias condicionales", "Sentencias condicionales\Sentencias condicionales.csproj", "{3F2D4CC9-6775-428F-833B-C6DA48AA8DF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{BA978CED-D773-4DE8-B094-862C6A345F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA978CED-D773-4DE8-B094-862C6A345F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA978CED-D773-4DE8-B094-862C6A345F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F2D4CC9-6775-428F-833B-C6DA48AA8DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2D4CC9-6775-428F-833B-C6DA48AA8DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2D4CC9-6775-428F-833B-C6DA48AA8DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2D4CC9-6775-428F-833B-C6DA48AA8DF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
